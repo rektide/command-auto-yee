@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "comay",
+  "project_id": "000084af-170f-446a-abd4-93492b62d700"
+}
